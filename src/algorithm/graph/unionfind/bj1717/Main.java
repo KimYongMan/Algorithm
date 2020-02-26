@@ -1,4 +1,4 @@
-package algorithm.unionfind.bj1717;
+package algorithm.graph.unionfind.bj1717;
 
 import java.io.BufferedReader;
 import java.io.IOException;
